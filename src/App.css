@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+
+@font-face {
+  font-family: MyFont;
+  src: url('public/assets/font/myfont.ttf');
+}
