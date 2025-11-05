@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: MyFont;
-  src: url('public/assets/font/myfont.ttf');
+  src: url('assets/font/myfont.ttf');
 }
 .zodiac-container {
   text-align: center;
