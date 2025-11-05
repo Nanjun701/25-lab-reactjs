@@ -2,7 +2,7 @@
   "Aries": {
     "element": "Fire",
     "dateRange": "Mar 21 - Apr 19",
-    "image": "public/assets/ZodiacImages/aries.png",
+    "image": "assets/ZodiacImages/aries.png",
     "rational": 4, "sensitive": 5, "stubborn": 8, "romantic": 6, "creative": 7,
     "empathetic": 3, "direct": 10, "calm": 4, "adventurous": 10, "loyal": 8,
     "impulsive": 10, "organized": 4
@@ -10,7 +10,7 @@
   "Taurus": {
     "element": "Earth",
     "dateRange": "Apr 20 - May 20",
-    "image": "public/assets/ZodiacImages/taurus.png",
+    "image": "assets/ZodiacImages/taurus.png",
     "rational": 8, "sensitive": 8, "stubborn": 10, "romantic": 5, "creative": 5,
     "empathetic": 8, "direct": 3, "calm": 10, "adventurous": 3, "loyal": 10,
     "impulsive": 2, "organized": 10
@@ -18,7 +18,7 @@
   "Gemini": {
     "element": "Air",
     "dateRange": "May 21 - Jun 20",
-    "image": "public/assets/ZodiacImages/gemini.png",
+    "image": "assets/ZodiacImages/gemini.png",
     "rational": 9, "sensitive": 4, "stubborn": 4, "romantic": 7, "creative": 9,
     "empathetic": 6, "direct": 9, "calm": 2, "adventurous": 8, "loyal": 4,
     "impulsive": 8, "organized": 3
@@ -26,7 +26,7 @@
   "Cancer": {
     "element": "Water",
     "dateRange": "Jun 21 - Jul 22",
-    "image": "public/assets/ZodiacImages/cancer.png",
+    "image": "assets/ZodiacImages/cancer.png",
     "rational": 5, "sensitive": 10, "stubborn": 6, "romantic": 9, "creative": 6,
     "empathetic": 10, "direct": 2, "calm": 8, "adventurous": 3, "loyal": 10,
     "impulsive": 4, "organized": 6
@@ -34,7 +34,7 @@
   "Leo": {
     "element": "Fire",
     "dateRange": "Jul 23 - Aug 22",
-    "image": "public/assets/ZodiacImages/leo.png",
+    "image": "assets/ZodiacImages/leo.png",
     "rational": 6, "sensitive": 4, "stubborn": 7, "romantic": 8, "creative": 8,
     "empathetic": 5, "direct": 10, "calm": 3, "adventurous": 9, "loyal": 8,
     "impulsive": 8, "organized": 5
@@ -42,7 +42,7 @@
   "Virgo": {
     "element": "Earth",
     "dateRange": "Aug 23 - Sep 22",
-    "image": "public/assets/ZodiacImages/virgo.png",
+    "image": "assets/ZodiacImages/virgo.png",
     "rational": 10, "sensitive": 5, "stubborn": 8, "romantic": 4, "creative": 6,
     "empathetic": 7, "direct": 4, "calm": 10, "adventurous": 2, "loyal": 8,
     "impulsive": 2, "organized": 10
@@ -50,7 +50,7 @@
   "Libra": {
     "element": "Air",
     "dateRange": "Sep 23 - Oct 22",
-    "image": "public/assets/ZodiacImages/libra.png",
+    "image": "assets/ZodiacImages/libra.png",
     "rational": 8, "sensitive": 6, "stubborn": 4, "romantic": 10, "creative": 9,
     "empathetic": 8, "direct": 6, "calm": 6, "adventurous": 6, "loyal": 6,
     "impulsive": 6, "organized": 6
@@ -58,7 +58,7 @@
   "Scorpio": {
     "element": "Water",
     "dateRange": "Oct 23 - Nov 21",
-    "image": "public/assets/ZodiacImages/scorpio.png",
+    "image": "assets/ZodiacImages/scorpio.png",
     "rational": 6, "sensitive": 10, "stubborn": 10, "romantic": 6, "creative": 6,
     "empathetic": 10, "direct": 3, "calm": 8, "adventurous": 4, "loyal": 10,
     "impulsive": 4, "organized": 6
@@ -66,7 +66,7 @@
   "Sagittarius": {
     "element": "Fire",
     "dateRange": "Nov 22 - Dec 21",
-    "image": "public/assets/ZodiacImages/sagittarius.png",
+    "image": "assets/ZodiacImages/sagittarius.png",
     "rational": 6, "sensitive": 4, "stubborn": 3, "romantic": 8, "creative": 10,
     "empathetic": 5, "direct": 10, "calm": 4, "adventurous": 10, "loyal": 6,
     "impulsive": 10, "organized": 4
@@ -74,7 +74,7 @@
   "Capricorn": {
     "element": "Earth",
     "dateRange": "Dec 22 - Jan 19",
-    "image": "public/assets/ZodiacImages/capricorn.png",
+    "image": "assets/ZodiacImages/capricorn.png",
     "rational": 10, "sensitive": 4, "stubborn": 8, "romantic": 4, "creative": 6,
     "empathetic": 6, "direct": 6, "calm": 10, "adventurous": 2, "loyal": 10,
     "impulsive": 2, "organized": 10
@@ -82,7 +82,7 @@
   "Aquarius": {
     "element": "Air",
     "dateRange": "Jan 20 - Feb 18",
-    "image": "public/assets/ZodiacImages/aquarius.png",
+    "image": "assets/ZodiacImages/aquarius.png",
     "rational": 10, "sensitive": 3, "stubborn": 6, "romantic": 6, "creative": 10,
     "empathetic": 4, "direct": 8, "calm": 6, "adventurous": 8, "loyal": 6,
     "impulsive": 6, "organized": 4
@@ -90,7 +90,7 @@
   "Pisces": {
     "element": "Water",
     "dateRange": "Feb 19 - Mar 20",
-    "image": "public/assets/ZodiacImages/pisces.png",
+    "image": "assets/ZodiacImages/pisces.png",
     "rational": 4, "sensitive": 10, "stubborn": 4, "romantic": 10, "creative": 10,
     "empathetic": 10, "direct": 2, "calm": 8, "adventurous": 4, "loyal": 8,
     "impulsive": 6, "organized": 4
