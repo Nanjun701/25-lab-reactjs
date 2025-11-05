@@ -43,5 +43,5 @@
 
 @font-face {
   font-family: MyFont;
-  src: url('assets/font/myfont.ttf');
+  src: url('./assets/font/myfont.ttf');
 }
